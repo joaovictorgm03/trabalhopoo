@@ -1,0 +1,6 @@
+id,nome,preco,descricao,estoque
+PROD001,Notebook Gamer,7500.50,Notebook de alta performance com placa de vídeo dedicada,20
+PROD002,Mouse sem fio,249.90,Mouse ergonômico com 6 botões e bateria de longa duração,3
+PROD003,Teclado Mecânico RGB,450.00,Teclado com switches blue ABNT2 e iluminação customizável,5
+PROD004,Monitor Gamer 27 polegadas,1800.00,Monitor com 144Hz de taxa de atualização e 1ms de resposta,23
+PROD005,Cadeira Gamer,1250.75,Cadeira ergonômica com suporte lombar e braços ajustáveis,1
